@@ -1,2 +1,4 @@
 # Profile_Information
-Create a login ,sign and  user profile(name, address, contact info and other relevant details)
+It will create a login and signup up page and  upon loging 
+user can enter his details.He can also upload his
+image in his profile.
